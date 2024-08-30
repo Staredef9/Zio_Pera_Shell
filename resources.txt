@@ -1,0 +1,15 @@
+https://port70.net/~nsz/c/c99/n1256.html#6.2.1
+
+https://www.gnu.org/software/libc/manual/html_mono/libc.html#Implementing-a-Shell 
+
+https://www.gnu.org/software/libc/manual/html_mono/libc.html#Process-Group-Functions
+
+https://www.gnu.org/software/libc/manual/html_mono/libc.html#Duplicating-Descriptors
+
+https://www.man7.org/linux/man-pages/man2/setpgid.2.html
+
+https://learn.microsoft.com/en-us/windows/win32/api/processthreadsapi/nf-processthreadsapi-createprocessasusera
+
+https://craftinginterpreters.com/introduction.html#how-the-book-is-organized
+
+
